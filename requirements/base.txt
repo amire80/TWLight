@@ -23,7 +23,7 @@ jsonschema==3.2.0
 mwoauth==0.3.7
 pillow==8.2.0
 pypandoc==1.5
-python-dateutil==2.8.1
+python-dateutil==2.8.2
 pytz==2021.1
 sentry-sdk==1.1.0
 whitenoise==5.2.0
